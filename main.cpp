@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// To je koda iz glavne veje master
 int main() {
     int izbira;
     double a, b;
