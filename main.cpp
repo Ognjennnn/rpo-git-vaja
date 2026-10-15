@@ -47,3 +47,4 @@ int main() {
     } while (izbira != 0);
     return 0;
 }
+// Dodano direktno na GitHubu
