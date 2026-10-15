@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// To je koda iz stranske veje za mnozenje
 int main() {
     int izbira;
     double a, b;
