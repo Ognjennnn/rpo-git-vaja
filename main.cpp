@@ -25,6 +25,7 @@ int main() {
                 cout << "Rezultat: " << a + b << endl;
                 break;
             case 2:
+                // Koda za odstevanje stevil
                 cout << "Rezultat: " << a - b << endl;
                 break;
             case 3:
