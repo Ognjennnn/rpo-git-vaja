@@ -50,3 +50,7 @@ int main() {
 // Dodano direktno na GitHubu
 // Dodano direktno na GitHubu verzija 2 ker je pri 1. poskusu prislo do napake!
 // Koda dodana za testiranje fetch ukaza
+
+
+// prvi dodatek - interaktivni rebase
+// drugi dodatek - interaktivni rebase
