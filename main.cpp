@@ -54,3 +54,7 @@ int main() {
 
 // prvi dodatek - interaktivni rebase
 // drugi dodatek - interaktivni rebase
+
+// Napol dokoncana koda
+
+// Test za amend
