@@ -58,3 +58,5 @@ int main() {
 // Napol dokoncana koda
 
 // Test za amend
+
+// Ta vrstica je dodana za test Pull Request-a
