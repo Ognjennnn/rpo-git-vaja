@@ -58,3 +58,5 @@ int main() {
 // Napol dokoncana koda
 
 // Test za amend
+
+// Slaba koda-revert
